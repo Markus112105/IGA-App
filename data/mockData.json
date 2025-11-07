@@ -1,0 +1,793 @@
+{
+  "profiles": [
+    {
+      "id": "profile-001",
+      "name": "Amina Diallo",
+      "age": 16,
+      "location": "Accra, Ghana",
+      "school": "Bright Future Girls High",
+      "role": "student",
+      "newsletter": true,
+      "joinDate": "2024-02-10",
+      "email": "amina.diallo@iga.org"
+    },
+    {
+      "id": "profile-002",
+      "name": "Zuri Mensah",
+      "age": 17,
+      "location": "Lagos, Nigeria",
+      "school": "Unity STEM Academy",
+      "role": "student",
+      "newsletter": false,
+      "joinDate": "2024-02-18",
+      "email": "zuri.mensah@iga.org"
+    },
+    {
+      "id": "profile-003",
+      "name": "Leila Habib",
+      "age": 18,
+      "location": "Nairobi, Kenya",
+      "school": "Eastside Technical College",
+      "role": "student",
+      "newsletter": true,
+      "joinDate": "2024-03-01",
+      "email": "leila.habib@iga.org"
+    },
+    {
+      "id": "profile-004",
+      "name": "Coach Nadia Mensimah",
+      "age": 32,
+      "location": "Kumasi, Ghana",
+      "school": "International Girls Academy",
+      "role": "admin",
+      "newsletter": true,
+      "joinDate": "2023-11-05",
+      "email": "nadia.mensimah@iga.org"
+    },
+    {
+      "id": "profile-005",
+      "name": "Tariro Okeke",
+      "age": 16,
+      "location": "Kigali, Rwanda",
+      "school": "STEM Horizons Academy",
+      "role": "student",
+      "newsletter": false,
+      "joinDate": "2024-03-16",
+      "email": "tariro.okeke@iga.org"
+    },
+    {
+      "id": "profile-006",
+      "name": "Tariro Bah",
+      "age": 17,
+      "location": "Addis Ababa, Ethiopia",
+      "school": "Future Innovators Girls School",
+      "role": "student",
+      "newsletter": true,
+      "joinDate": "2024-03-17",
+      "email": "tariro.bah@iga.org"
+    },
+    {
+      "id": "profile-007",
+      "name": "Tariro Mutiso",
+      "age": 18,
+      "location": "Dar es Salaam, Tanzania",
+      "school": "Ubuntu Leadership Institute",
+      "role": "student",
+      "newsletter": false,
+      "joinDate": "2024-03-18",
+      "email": "tariro.mutiso@iga.org"
+    },
+    {
+      "id": "profile-008",
+      "name": "Tariro Adegoke",
+      "age": 28,
+      "location": "Kampala, Uganda",
+      "school": "Emerging Leaders STEM Hub",
+      "role": "mentor",
+      "newsletter": true,
+      "joinDate": "2024-03-19",
+      "email": "tariro.adegoke@iga.org"
+    },
+    {
+      "id": "profile-009",
+      "name": "Tariro Nyarko",
+      "age": 20,
+      "location": "Johannesburg, South Africa",
+      "school": "Bright Horizons Technical College",
+      "role": "student",
+      "newsletter": false,
+      "joinDate": "2024-03-20",
+      "email": "tariro.nyarko@iga.org"
+    },
+    {
+      "id": "profile-010",
+      "name": "Tariro Mwangi",
+      "age": 34,
+      "location": "Abidjan, C\u00f4te d'Ivoire",
+      "school": "EmpowerHer Learning Centre",
+      "role": "coach",
+      "newsletter": true,
+      "joinDate": "2024-03-21",
+      "email": "tariro.mwangi@iga.org"
+    },
+    {
+      "id": "profile-011",
+      "name": "Tariro Okoro",
+      "age": 16,
+      "location": "Dakar, Senegal",
+      "school": "Innovation Scholars Academy",
+      "role": "student",
+      "newsletter": false,
+      "joinDate": "2024-03-22",
+      "email": "tariro.okoro@iga.org"
+    },
+    {
+      "id": "profile-012",
+      "name": "Tariro Diallo",
+      "age": 22,
+      "location": "Harare, Zimbabwe",
+      "school": "Global Girls Impact School",
+      "role": "alumni",
+      "newsletter": true,
+      "joinDate": "2024-03-23",
+      "email": "tariro.diallo@iga.org"
+    },
+    {
+      "id": "profile-013",
+      "name": "Tariro Mensimah",
+      "age": 24,
+      "location": "Lusaka, Zambia",
+      "school": "Catalyst Youth Institute",
+      "role": "mentor",
+      "newsletter": false,
+      "joinDate": "2024-03-24",
+      "email": "tariro.mensimah@iga.org"
+    },
+    {
+      "id": "profile-014",
+      "name": "Tariro Kabore",
+      "age": 19,
+      "location": "Gaborone, Botswana",
+      "school": "New Dawn Technology School",
+      "role": "student",
+      "newsletter": true,
+      "joinDate": "2024-03-25",
+      "email": "tariro.kabore@iga.org"
+    },
+    {
+      "id": "profile-015",
+      "name": "Tariro Kamau",
+      "age": 20,
+      "location": "Maputo, Mozambique",
+      "school": "Inspire Girls Leadership Hub",
+      "role": "student",
+      "newsletter": false,
+      "joinDate": "2024-03-26",
+      "email": "tariro.kamau@iga.org"
+    },
+    {
+      "id": "profile-016",
+      "name": "Tariro Kidane",
+      "age": 15,
+      "location": "Bamako, Mali",
+      "school": "Trailblazer Science College",
+      "role": "student",
+      "newsletter": true,
+      "joinDate": "2024-03-27",
+      "email": "tariro.kidane@iga.org"
+    },
+    {
+      "id": "profile-017",
+      "name": "Tariro Abebe",
+      "age": 16,
+      "location": "Freetown, Sierra Leone",
+      "school": "Unity Girls Polytechnic",
+      "role": "student",
+      "newsletter": false,
+      "joinDate": "2024-03-28",
+      "email": "tariro.abebe@iga.org"
+    },
+    {
+      "id": "profile-018",
+      "name": "Tariro Mahamat",
+      "age": 29,
+      "location": "Windhoek, Namibia",
+      "school": "Rising Minds STEM Campus",
+      "role": "mentor",
+      "newsletter": true,
+      "joinDate": "2024-03-29",
+      "email": "tariro.mahamat@iga.org"
+    },
+    {
+      "id": "profile-019",
+      "name": "Tariro Ndoye",
+      "age": 18,
+      "location": "Port Louis, Mauritius",
+      "school": "Aspire Scholars Program",
+      "role": "student",
+      "newsletter": false,
+      "joinDate": "2024-03-30",
+      "email": "tariro.ndoye@iga.org"
+    },
+    {
+      "id": "profile-020",
+      "name": "Tariro Chilufya",
+      "age": 30,
+      "location": "Kigali, Rwanda",
+      "school": "STEM Horizons Academy",
+      "role": "coach",
+      "newsletter": true,
+      "joinDate": "2024-03-31",
+      "email": "tariro.chilufya@iga.org"
+    },
+    {
+      "id": "profile-021",
+      "name": "Tariro Guedj",
+      "age": 20,
+      "location": "Addis Ababa, Ethiopia",
+      "school": "Future Innovators Girls School",
+      "role": "student",
+      "newsletter": false,
+      "joinDate": "2024-04-01",
+      "email": "tariro.guedj@iga.org"
+    },
+    {
+      "id": "profile-022",
+      "name": "Tariro Ibrahim",
+      "age": 22,
+      "location": "Dar es Salaam, Tanzania",
+      "school": "Ubuntu Leadership Institute",
+      "role": "alumni",
+      "newsletter": true,
+      "joinDate": "2024-04-02",
+      "email": "tariro.ibrahim@iga.org"
+    },
+    {
+      "id": "profile-023",
+      "name": "Tariro Jarreau",
+      "age": 25,
+      "location": "Kampala, Uganda",
+      "school": "Emerging Leaders STEM Hub",
+      "role": "mentor",
+      "newsletter": false,
+      "joinDate": "2024-04-03",
+      "email": "tariro.jarreau@iga.org"
+    },
+    {
+      "id": "profile-024",
+      "name": "Tariro Kanneh",
+      "age": 17,
+      "location": "Johannesburg, South Africa",
+      "school": "Bright Horizons Technical College",
+      "role": "student",
+      "newsletter": true,
+      "joinDate": "2024-04-04",
+      "email": "tariro.kanneh@iga.org"
+    },
+    {
+      "id": "profile-025",
+      "name": "Tariro Lul",
+      "age": 18,
+      "location": "Abidjan, C\u00f4te d'Ivoire",
+      "school": "EmpowerHer Learning Centre",
+      "role": "student",
+      "newsletter": false,
+      "joinDate": "2024-04-05",
+      "email": "tariro.lul@iga.org"
+    },
+    {
+      "id": "profile-026",
+      "name": "Tariro Mbaye",
+      "age": 19,
+      "location": "Dakar, Senegal",
+      "school": "Innovation Scholars Academy",
+      "role": "student",
+      "newsletter": true,
+      "joinDate": "2024-04-06",
+      "email": "tariro.mbaye@iga.org"
+    },
+    {
+      "id": "profile-027",
+      "name": "Tariro Ncube",
+      "age": 20,
+      "location": "Harare, Zimbabwe",
+      "school": "Global Girls Impact School",
+      "role": "student",
+      "newsletter": false,
+      "joinDate": "2024-04-07",
+      "email": "tariro.ncube@iga.org"
+    },
+    {
+      "id": "profile-028",
+      "name": "Tariro Ouedraogo",
+      "age": 30,
+      "location": "Lusaka, Zambia",
+      "school": "Catalyst Youth Institute",
+      "role": "mentor",
+      "newsletter": true,
+      "joinDate": "2024-04-08",
+      "email": "tariro.ouedraogo@iga.org"
+    },
+    {
+      "id": "profile-029",
+      "name": "Tariro Penda",
+      "age": 16,
+      "location": "Gaborone, Botswana",
+      "school": "New Dawn Technology School",
+      "role": "student",
+      "newsletter": false,
+      "joinDate": "2024-04-09",
+      "email": "tariro.penda@iga.org"
+    },
+    {
+      "id": "profile-030",
+      "name": "Imani Okeke",
+      "age": 33,
+      "location": "Maputo, Mozambique",
+      "school": "Inspire Girls Leadership Hub",
+      "role": "coach",
+      "newsletter": true,
+      "joinDate": "2024-04-10",
+      "email": "imani.okeke@iga.org"
+    },
+    {
+      "id": "profile-031",
+      "name": "Imani Bah",
+      "age": 18,
+      "location": "Bamako, Mali",
+      "school": "Trailblazer Science College",
+      "role": "student",
+      "newsletter": false,
+      "joinDate": "2024-04-11",
+      "email": "imani.bah@iga.org"
+    },
+    {
+      "id": "profile-032",
+      "name": "Imani Mutiso",
+      "age": 22,
+      "location": "Freetown, Sierra Leone",
+      "school": "Unity Girls Polytechnic",
+      "role": "alumni",
+      "newsletter": true,
+      "joinDate": "2024-04-12",
+      "email": "imani.mutiso@iga.org"
+    },
+    {
+      "id": "profile-033",
+      "name": "Imani Adegoke",
+      "age": 26,
+      "location": "Windhoek, Namibia",
+      "school": "Rising Minds STEM Campus",
+      "role": "mentor",
+      "newsletter": false,
+      "joinDate": "2024-04-13",
+      "email": "imani.adegoke@iga.org"
+    },
+    {
+      "id": "profile-034",
+      "name": "Imani Nyarko",
+      "age": 15,
+      "location": "Port Louis, Mauritius",
+      "school": "Aspire Scholars Program",
+      "role": "student",
+      "newsletter": true,
+      "joinDate": "2024-04-14",
+      "email": "imani.nyarko@iga.org"
+    },
+    {
+      "id": "profile-035",
+      "name": "Imani Mwangi",
+      "age": 16,
+      "location": "Kigali, Rwanda",
+      "school": "STEM Horizons Academy",
+      "role": "student",
+      "newsletter": false,
+      "joinDate": "2024-04-15",
+      "email": "imani.mwangi@iga.org"
+    },
+    {
+      "id": "profile-036",
+      "name": "Imani Okoro",
+      "age": 17,
+      "location": "Addis Ababa, Ethiopia",
+      "school": "Future Innovators Girls School",
+      "role": "student",
+      "newsletter": true,
+      "joinDate": "2024-04-16",
+      "email": "imani.okoro@iga.org"
+    },
+    {
+      "id": "profile-037",
+      "name": "Imani Diallo",
+      "age": 18,
+      "location": "Dar es Salaam, Tanzania",
+      "school": "Ubuntu Leadership Institute",
+      "role": "student",
+      "newsletter": false,
+      "joinDate": "2024-04-17",
+      "email": "imani.diallo@iga.org"
+    },
+    {
+      "id": "profile-038",
+      "name": "Imani Mensimah",
+      "age": 31,
+      "location": "Kampala, Uganda",
+      "school": "Emerging Leaders STEM Hub",
+      "role": "mentor",
+      "newsletter": true,
+      "joinDate": "2024-04-18",
+      "email": "imani.mensimah@iga.org"
+    },
+    {
+      "id": "profile-039",
+      "name": "Imani Kabore",
+      "age": 20,
+      "location": "Johannesburg, South Africa",
+      "school": "Bright Horizons Technical College",
+      "role": "student",
+      "newsletter": false,
+      "joinDate": "2024-04-19",
+      "email": "imani.kabore@iga.org"
+    },
+    {
+      "id": "profile-040",
+      "name": "Imani Kamau",
+      "age": 29,
+      "location": "Abidjan, C\u00f4te d'Ivoire",
+      "school": "EmpowerHer Learning Centre",
+      "role": "coach",
+      "newsletter": true,
+      "joinDate": "2024-04-20",
+      "email": "imani.kamau@iga.org"
+    },
+    {
+      "id": "profile-041",
+      "name": "Imani Kidane",
+      "age": 16,
+      "location": "Dakar, Senegal",
+      "school": "Innovation Scholars Academy",
+      "role": "student",
+      "newsletter": false,
+      "joinDate": "2024-04-21",
+      "email": "imani.kidane@iga.org"
+    },
+    {
+      "id": "profile-042",
+      "name": "Imani Abebe",
+      "age": 22,
+      "location": "Harare, Zimbabwe",
+      "school": "Global Girls Impact School",
+      "role": "alumni",
+      "newsletter": true,
+      "joinDate": "2024-04-22",
+      "email": "imani.abebe@iga.org"
+    },
+    {
+      "id": "profile-043",
+      "name": "Imani Mahamat",
+      "age": 27,
+      "location": "Lusaka, Zambia",
+      "school": "Catalyst Youth Institute",
+      "role": "mentor",
+      "newsletter": false,
+      "joinDate": "2024-04-23",
+      "email": "imani.mahamat@iga.org"
+    },
+    {
+      "id": "profile-044",
+      "name": "Imani Ndoye",
+      "age": 19,
+      "location": "Gaborone, Botswana",
+      "school": "New Dawn Technology School",
+      "role": "student",
+      "newsletter": true,
+      "joinDate": "2024-04-24",
+      "email": "imani.ndoye@iga.org"
+    },
+    {
+      "id": "profile-045",
+      "name": "Imani Chilufya",
+      "age": 20,
+      "location": "Maputo, Mozambique",
+      "school": "Inspire Girls Leadership Hub",
+      "role": "student",
+      "newsletter": false,
+      "joinDate": "2024-04-25",
+      "email": "imani.chilufya@iga.org"
+    },
+    {
+      "id": "profile-046",
+      "name": "Imani Guedj",
+      "age": 15,
+      "location": "Bamako, Mali",
+      "school": "Trailblazer Science College",
+      "role": "student",
+      "newsletter": true,
+      "joinDate": "2024-04-26",
+      "email": "imani.guedj@iga.org"
+    },
+    {
+      "id": "profile-047",
+      "name": "Imani Ibrahim",
+      "age": 16,
+      "location": "Freetown, Sierra Leone",
+      "school": "Unity Girls Polytechnic",
+      "role": "student",
+      "newsletter": false,
+      "joinDate": "2024-04-27",
+      "email": "imani.ibrahim@iga.org"
+    },
+    {
+      "id": "profile-048",
+      "name": "Imani Jarreau",
+      "age": 32,
+      "location": "Windhoek, Namibia",
+      "school": "Rising Minds STEM Campus",
+      "role": "mentor",
+      "newsletter": true,
+      "joinDate": "2024-04-28",
+      "email": "imani.jarreau@iga.org"
+    },
+    {
+      "id": "profile-049",
+      "name": "Imani Kanneh",
+      "age": 18,
+      "location": "Port Louis, Mauritius",
+      "school": "Aspire Scholars Program",
+      "role": "student",
+      "newsletter": false,
+      "joinDate": "2024-04-29",
+      "email": "imani.kanneh@iga.org"
+    },
+    {
+      "id": "profile-050",
+      "name": "Imani Lul",
+      "age": 32,
+      "location": "Kigali, Rwanda",
+      "school": "STEM Horizons Academy",
+      "role": "coach",
+      "newsletter": true,
+      "joinDate": "2024-04-30",
+      "email": "imani.lul@iga.org"
+    },
+    {
+      "id": "profile-051",
+      "name": "Imani Mbaye",
+      "age": 20,
+      "location": "Addis Ababa, Ethiopia",
+      "school": "Future Innovators Girls School",
+      "role": "student",
+      "newsletter": false,
+      "joinDate": "2024-05-01",
+      "email": "imani.mbaye@iga.org"
+    },
+    {
+      "id": "profile-052",
+      "name": "Imani Ncube",
+      "age": 22,
+      "location": "Dar es Salaam, Tanzania",
+      "school": "Ubuntu Leadership Institute",
+      "role": "alumni",
+      "newsletter": true,
+      "joinDate": "2024-05-02",
+      "email": "imani.ncube@iga.org"
+    },
+    {
+      "id": "profile-053",
+      "name": "Imani Ouedraogo",
+      "age": 28,
+      "location": "Kampala, Uganda",
+      "school": "Emerging Leaders STEM Hub",
+      "role": "mentor",
+      "newsletter": false,
+      "joinDate": "2024-05-03",
+      "email": "imani.ouedraogo@iga.org"
+    },
+    {
+      "id": "profile-054",
+      "name": "Imani Penda",
+      "age": 17,
+      "location": "Johannesburg, South Africa",
+      "school": "Bright Horizons Technical College",
+      "role": "student",
+      "newsletter": true,
+      "joinDate": "2024-05-04",
+      "email": "imani.penda@iga.org"
+    }
+  ],
+  "programs": [
+    {
+      "id": "program-ujima",
+      "name": "Ujima Business Program",
+      "summary": "Hands-on entrepreneurship lab guiding girls through building community-focused ventures.",
+      "cohort": "Spring 2024",
+      "category": "Entrepreneurship",
+      "startDate": "2024-03-01",
+      "endDate": "2024-04-30",
+      "tags": [
+        "entrepreneurship",
+        "pitch",
+        "finance"
+      ]
+    },
+    {
+      "id": "program-kumbathon",
+      "name": "Kumbathon",
+      "summary": "Rapid innovation challenge tackling real-world problems with technology and design thinking.",
+      "cohort": "Spring 2024",
+      "category": "Hackathon",
+      "startDate": "2024-04-12",
+      "endDate": "2024-04-14",
+      "tags": [
+        "technology",
+        "teamwork",
+        "innovation"
+      ]
+    },
+    {
+      "id": "program-nia-empowerment",
+      "name": "NIA Empowerment Academy",
+      "summary": "A six-week accelerator building confidence, life skills, and future-ready mindsets through mentorship and applied learning.",
+      "cohort": "Fall · Spring · Summer",
+      "category": "Empowerment",
+      "startDate": "2024-09-01",
+      "endDate": "2024-11-15",
+      "tags": [
+        "career",
+        "college prep",
+        "learning"
+      ]
+    },
+    {
+      "id": "program-academy",
+      "name": "IGA Academy",
+      "summary": "Foundational onboarding pathway introducing the IGA mission, mentors, and digital campus.",
+      "cohort": "Rolling",
+      "category": "Onboarding",
+      "startDate": "2024-02-01",
+      "endDate": "2024-06-01",
+      "tags": [
+        "onboarding",
+        "mentorship",
+        "orientation"
+      ]
+    }
+  ],
+  "modules": [
+    {
+      "id": "module-ujima-1",
+      "programId": "program-ujima",
+      "sequence": 1,
+      "title": "Orientation & Venture Mapping",
+      "description": "Welcome session, team assignments, and identifying community challenges to solve.",
+      "estimatedMinutes": 60
+    },
+    {
+      "id": "module-ujima-2",
+      "programId": "program-ujima",
+      "sequence": 2,
+      "title": "Business Model Canvas 101",
+      "description": "Break down the Lean Canvas and map customer, value, and revenue assumptions.",
+      "estimatedMinutes": 75
+    },
+    {
+      "id": "module-kumbathon-1",
+      "programId": "program-kumbathon",
+      "sequence": 1,
+      "title": "Design Thinking Sprint",
+      "description": "Empathy interviews, problem framing, and brainstorming sessions.",
+      "estimatedMinutes": 90
+    },
+    {
+      "id": "module-kumbathon-2",
+      "programId": "program-kumbathon",
+      "sequence": 2,
+      "title": "Prototype & Pitch",
+      "description": "Build rapid prototypes, collect feedback, and craft a 3-minute pitch.",
+      "estimatedMinutes": 120
+    },
+    {
+      "id": "module-box-1",
+      "programId": "program-box-of-hope",
+      "sequence": 1,
+      "title": "Community Wellness Workshop",
+      "description": "Mindfulness practices, emotional literacy, and journaling prompts.",
+      "estimatedMinutes": 45
+    },
+    {
+      "id": "module-box-2",
+      "programId": "program-box-of-hope",
+      "sequence": 2,
+      "title": "Service Design Project",
+      "description": "Plan and deliver care packages with team reflection check-ins.",
+      "estimatedMinutes": 60
+    },
+    {
+      "id": "module-academy-1",
+      "programId": "program-academy",
+      "sequence": 1,
+      "title": "Welcome to IGA",
+      "description": "Mission overview, mentor introductions, and campus navigation tour.",
+      "estimatedMinutes": 30
+    },
+    {
+      "id": "module-academy-2",
+      "programId": "program-academy",
+      "sequence": 2,
+      "title": "Goal Setting Lab",
+      "description": "Set personal development goals and select recommended pathways.",
+      "estimatedMinutes": 50
+    }
+  ],
+  "progress": [
+    {
+      "profileId": "profile-001",
+      "moduleId": "module-academy-1",
+      "status": "completed",
+      "completionDate": "2024-02-12",
+      "score": 95
+    },
+    {
+      "profileId": "profile-001",
+      "moduleId": "module-academy-2",
+      "status": "in_progress",
+      "completionDate": null,
+      "score": null
+    },
+    {
+      "profileId": "profile-002",
+      "moduleId": "module-ujima-1",
+      "status": "completed",
+      "completionDate": "2024-03-07",
+      "score": 88
+    },
+    {
+      "profileId": "profile-003",
+      "moduleId": "module-kumbathon-1",
+      "status": "completed",
+      "completionDate": "2024-04-13",
+      "score": 91
+    },
+    {
+      "profileId": "profile-003",
+      "moduleId": "module-kumbathon-2",
+      "status": "not_started",
+      "completionDate": null,
+      "score": null
+    }
+  ],
+  "engagement": [
+    {
+      "id": "engagement-001",
+      "profileId": "profile-001",
+      "programId": "program-academy",
+      "type": "live_session",
+      "timestamp": "2024-02-15T17:30:00Z",
+      "details": "Attended Welcome to IGA cohort meetup."
+    },
+    {
+      "id": "engagement-002",
+      "profileId": "profile-002",
+      "programId": "program-ujima",
+      "type": "resource_download",
+      "timestamp": "2024-03-09T09:45:00Z",
+      "details": "Downloaded Business Model Canvas template."
+    },
+    {
+      "id": "engagement-003",
+      "profileId": "profile-003",
+      "programId": "program-kumbathon",
+      "type": "mentor_chat",
+      "timestamp": "2024-04-12T16:05:00Z",
+      "details": "Booked office hours with Coach Nadia to review prototype."
+    },
+    {
+      "id": "engagement-004",
+      "profileId": "profile-004",
+      "programId": "program-box-of-hope",
+      "type": "admin_note",
+      "timestamp": "2024-03-20T12:00:00Z",
+      "details": "Added reflection prompt for Community Wellness Workshop."
+    }
+  ]
+}

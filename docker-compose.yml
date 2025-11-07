@@ -1,0 +1,15 @@
+services:
+  postgres:
+    image: postgres:16
+    container_name: team19_postgres
+    environment:
+      POSTGRES_USER: group19
+      POSTGRES_PASSWORD: C4G2025
+      POSTGRES_DB: team19_db
+    ports:
+      - "0.0.0.0:5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+volumes:
+  postgres_data:
