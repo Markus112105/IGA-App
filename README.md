@@ -1,11 +1,11 @@
-# 🌸 IGA Pathways Platform
+# IGA Pathways Platform
 
 A web platform built for **The International Girls Academy (IGA)** to improve student onboarding, engagement, and retention.  
 This project was developed for the hackathon to provide **a clear join flow, personalized event recommendations, and admin analytics.**
 
 ---
 
-## ✨ Features
+## Features
 
 - **Welcome Video Homepage** – short intro to IGA mission and how to get started.  
 - **Sign Up Form** – collects name, age, location, school/work, and newsletter opt-in.  
@@ -21,7 +21,7 @@ This project was developed for the hackathon to provide **a clear join flow, per
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - **Next.js (JavaScript)** – app + UI  
@@ -47,7 +47,7 @@ This project was developed for the hackathon to provide **a clear join flow, per
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone Repo & Install
 ```bash
